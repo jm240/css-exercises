@@ -1,0 +1,13 @@
+.ddddd,
+.ccccc {
+    font-size: 28px;
+    font-family: "Helvetica" "Times New Roman" sans-serif;
+}
+
+.ddddd {
+    background-color: black;
+    color: white;
+}
+.ccccc {
+    background-color: yellow;
+}
